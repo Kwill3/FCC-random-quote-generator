@@ -1,0 +1,50 @@
+.quote-container {
+  justify-content: center;
+  align-items: center;
+}
+
+.quote-wrapper {
+  display: block;
+}
+
+#text {
+  font-size: 30px;
+}
+
+#author {
+  margin-top: 15px;
+  text-align: right;
+  font-size: 20px;
+  font-family: serif;
+}
+
+#tweet-quote {
+  float:left;
+  text-align:center;
+  font-size:1.2em;
+  margin-right:5px;
+  margin-top:30px;
+  width:35px;
+}
+
+#new-quote {
+  float:right;
+  height:38px;
+  border:none;
+  border-radius:3px;
+  color:#fff;
+  background-color:#333;
+  outline:none;
+  font-size:0.85em;
+  padding: 8px 18px 6px 18px;
+  margin-top:30px;
+  opacity:1;
+  cursor:pointer;
+}
+#new-quote:hover {
+  opacity:0.9;
+}
+
+#quoteMark {
+  width: 30px;
+}

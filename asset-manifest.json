@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/FCC-random-quote-generator/static/css/main.2d054003.chunk.css",
+    "main.js": "/FCC-random-quote-generator/static/js/main.aade605a.chunk.js",
+    "main.js.map": "/FCC-random-quote-generator/static/js/main.aade605a.chunk.js.map",
+    "runtime~main.js": "/FCC-random-quote-generator/static/js/runtime~main.d74b4bdc.js",
+    "runtime~main.js.map": "/FCC-random-quote-generator/static/js/runtime~main.d74b4bdc.js.map",
+    "static/js/2.b7f52e28.chunk.js": "/FCC-random-quote-generator/static/js/2.b7f52e28.chunk.js",
+    "static/js/2.b7f52e28.chunk.js.map": "/FCC-random-quote-generator/static/js/2.b7f52e28.chunk.js.map",
+    "index.html": "/FCC-random-quote-generator/index.html",
+    "precache-manifest.f6b0664155b95585278d497373b200ee.js": "/FCC-random-quote-generator/precache-manifest.f6b0664155b95585278d497373b200ee.js",
+    "service-worker.js": "/FCC-random-quote-generator/service-worker.js",
+    "static/css/main.2d054003.chunk.css.map": "/FCC-random-quote-generator/static/css/main.2d054003.chunk.css.map",
+    "static/media/quote.png": "/FCC-random-quote-generator/static/media/quote.65074676.png",
+    "static/media/twitter.png": "/FCC-random-quote-generator/static/media/twitter.f29106f6.png"
+  }
+}
